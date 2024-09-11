@@ -1,2 +1,2 @@
 # hello-world
-This repository contains a riddle.
+Riddle: What is the end of everything?
